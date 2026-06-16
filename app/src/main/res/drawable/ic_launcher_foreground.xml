@@ -1,0 +1,54 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Shadow Glow (subtle) -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M30,22 H78 A6,6 0 0 1 84,28 V84 A6,6 0 0 1 78,90 H30 A6,6 0 0 1 24,84 V28 A6,6 0 0 1 30,22 Z" />
+
+    <!-- Calculator Body (Deep Charcoal Grey) -->
+    <path
+        android:fillColor="#263238"
+        android:pathData="M32,20 H76 A6,6 0 0 1 82,26 V82 A6,6 0 0 1 76,88 H32 A6,6 0 0 1 26,82 V26 A6,6 0 0 1 32,20 Z" />
+
+    <!-- Screen Bezel Background (Dark Metallic Gloss) -->
+    <path
+        android:fillColor="#1F292E"
+        android:pathData="M32,26 H76 a2,2 0 0 1 2,2 V42 a2,2 0 0 1 -2,2 H32 a2,2 0 0 1 -2,-2 V28 a2,2 0 0 1 2,-2 Z" />
+
+    <!-- Screen Active Display (Emerald Green Glow) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M36,30 H72 a1,1 0 0 1 1,1 V37 a1,1 0 0 1 -1,1 H36 a1,1 0 0 1 -1,-1 V31 a1,1 0 0 1 1,-1 Z" />
+
+    <!-- Key Rows Grid (Warm Gold accents) -->
+    <!-- Row 1 Keys -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M34,50 H44 a2,2 0 0 1 2,2 V58 a2,2 0 0 1 -2,2 H34 a2,2 0 0 1 -2,-2 V52 a2,2 0 0 1 2,-2 Z" />
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M49,50 H59 a2,2 0 0 1 2,2 V58 a2,2 0 0 1 -2,2 H49 a2,2 0 0 1 -2,-2 V52 a2,2 0 0 1 2,-2 Z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M64,50 H74 a2,2 0 0 1 2,2 V58 a2,2 0 0 1 -2,2 H64 a2,2 0 0 1 -2,-2 V52 a2,2 0 0 1 2,-2 Z" />
+
+    <!-- Row 2 Keys -->
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M34,63 H44 a2,2 0 0 1 2,2 V71 a2,2 0 0 1 -2,2 H34 a2,2 0 0 1 -2,-2 V65 a2,2 0 0 1 2,-2 Z" />
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M49,63 H59 a2,2 0 0 1 2,2 V71 a2,2 0 0 1 -2,2 H49 a2,2 0 0 1 -2,-2 V65 a2,2 0 0 1 2,-2 Z" />
+    <path
+        android:fillColor="#ECEFF1"
+        android:pathData="M64,63 H74 a2,2 0 0 1 2,2 V71 a2,2 0 0 1 -2,2 H64 a2,2 0 0 1 -2,-2 V65 a2,2 0 0 1 2,-2 Z" />
+
+    <!-- Row 3 Keys (Equals Button - Double Wide Accent Green) -->
+    <path
+        android:fillColor="#00C853"
+        android:pathData="M34,76 H74 a2,2 0 0 1 2,2 V82 a2,2 0 0 1 -2,2 H34 a2,2 0 0 1 -2,-2 V78 a2,2 0 0 1 2,-2 Z" />
+</vector>
